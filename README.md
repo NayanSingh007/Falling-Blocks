@@ -1,4 +1,4 @@
 # Falling-Blocks
 It is a game that i made in Unity Game Engine using C# .
 You can access the game without any additional software.
-For code you may need Unity.
+For Editing Code and building Game you may need Unity.
